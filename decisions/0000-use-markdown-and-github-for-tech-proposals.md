@@ -20,6 +20,7 @@ Should we store technical proposals in GitHub using MADR, or continue using Noti
 - The MADR format is lean and fits our development style.
 - The MADR structure is comprehensible and facilitates usage & maintenance.
 - Version control and history tracking.
+- We can use the repo to store standardized code like ci-config files
 
 #### Cons:
 - Changes things
